@@ -8,9 +8,9 @@ body {
 
 }
 h1 {
+    color: yellow;
     font-family: 'Courier New', Courier, monospace;
-    background-color: black;
-    color: greenyellow;
+    background-color: rgb(0, 0, 0);
     text-align: center;
 }
 p {
